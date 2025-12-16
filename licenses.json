@@ -16,10 +16,10 @@
     {
         "key": "QETC-mcneal2025",
         "client": "McNeal Tax & Associates",
-        "domain": "mcnealtax.com",
+        "domain": "mcnealtaxservices.com",
         "logo": "https://example.com/mcneal-logo.png",
         "primaryColor": "#1e40af",
-        "webhook": "https://services.leadconnectorhq.com/hooks/YOUR_WEBHOOK_ID",
+        "webhook": "https://services.leadconnectorhq.com/hooks/OZKMiqdjkCDq21nc5jPE/webhook-trigger/464742fb-b13a-4ec1-965e-523223c9bdc3",
         "ctaUrl": "https://mcnealtax.com/schedule",
         "ctaText": "📞 Book Your Free Consultation",
         "expires": "2025-12-31",
