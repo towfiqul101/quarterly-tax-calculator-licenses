@@ -1,7 +1,7 @@
 // License Validation API for Quarterly Tax Calculator
 // Fetches licenses from GitHub and validates the provided key
 
-const GITHUB_LICENSES_URL = 'https://raw.githubusercontent.com/YOUR_USERNAME/quarterly-tax-calculator-licenses/main/licenses.json';
+const GITHUB_LICENSES_URL = 'https://raw.githubusercontent.com/towfiqul101/quarterly-tax-calculator-licenses/main/licenses.json';
 
 export default async function handler(req, res) {
     // Enable CORS
