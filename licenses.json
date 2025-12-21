@@ -1,8 +1,8 @@
 [
     {
         "key": "QETC-demo123xyz",
-        "client": "towfiqul.funnels@gmail.com",
-        "domain": "demo.com",
+        "client": "Demo Tax Services",
+        "domain": "quarterly-tax-calculator-eosin.vercel.app",
         "logo": "",
         "primaryColor": "#4f46e5",
         "webhook": "",
@@ -13,16 +13,17 @@
         "created": "2024-12-16",
         "notes": "Demo license for testing"
     },
-   {
-    "key": "QETC-swift2025",
-    "client": "Swift Express Tax",
-    "domain": "tax-calculator-nine-sandy.vercel.app",
-    "logo": "",
-    "primaryColor": "#1e3a5f",
-    "webhook": "https://services.leadconnectorhq.com/hooks/GElR6TDzWPRNgaNTWroH/webhook-trigger/980d8ffa-0e9c-4336-83bb-80bba1d645c1",
-    "ctaUrl": "https://www.swiftexpresstax.com/file-today",
-    "ctaText": "📞 File Your Taxes Today",
-    "expires": "2025-12-31",
-    "status": "active",
-    "created": "2024-12-22"
-}
+    {
+        "key": "QETC-swift2025",
+        "client": "Swift Express Tax",
+        "domain": "quarterly-tax-calculator-eosin.vercel.app",
+        "logo": "",
+        "primaryColor": "#1e3a5f",
+        "webhook": "https://services.leadconnectorhq.com/hooks/GElR6TDzWPRNgaNTWroH/webhook-trigger/980d8ffa-0e9c-4336-83bb-80bba1d645c1",
+        "ctaUrl": "https://www.swiftexpresstax.com/file-today",
+        "ctaText": "📞 File Your Taxes Today",
+        "expires": "2025-12-31",
+        "status": "active",
+        "created": "2024-12-22"
+    }
+]
